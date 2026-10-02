@@ -29,7 +29,7 @@
             <artifactId>javafx-fxml</artifactId>
             <version>${javafx.version}</version>
         </dependency>
-        
+
         <dependency>
             <groupId>net.objecthunter</groupId>
             <artifactId>exp4j</artifactId>
